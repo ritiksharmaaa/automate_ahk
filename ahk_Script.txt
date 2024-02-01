@@ -1,0 +1,31 @@
+::shotcut::what you wated to write 
+
+^j::
+send, thisis also erite you long word in just type this word 
+
+^K::
+Msgbox, K msg box 
+return -- it a must command .
+
+^g::
+run, Https//website.com 
+return
+
+^l:: 
+run, notepad.exe
+return
+
+
+
+another chaneel 
+
+^b ::
+{sned,^b
+sleep 50 milisecond 
+run, http site.com 
+}
+
+wamt script run when pc is on 
+
+wind + r type shell:startup enter 
+paste your ahk scritp there now it done .
